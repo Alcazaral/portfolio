@@ -1,0 +1,201 @@
+body{
+ background-color: white;
+ font-family: 'Ubuntu', sans-serif;
+ color: black;
+ margin: 0px;
+}
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #000;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.btnList a {
+  border-radius: 3px; 
+  background-color:black;
+  color:white;
+  font-size:25px;
+  margin-top:20px;
+  padding: 6px 12px;
+  text-decoration: none;2
+  border-radius: 3px;
+}
+
+.block{
+  background-color:black;
+  opacity:.7;
+  color:gray;
+  padding:50px;
+  margin-top:100px;
+  border-radius:30px;
+  width: 700px;
+  height: 400px;
+  float: left;
+  margin-left: 50px;
+}
+
+.block2 {
+  background-color: black;
+  opacity: .7;
+  color: gray;
+  padding: 50px;
+  margin-top: 100px;
+  border-radius: 30px;
+  width: 700px;
+  height: 400px;
+  float: right;
+  margin-right: 50px;
+}
+
+.block2 img {
+  width: 700px;
+  height: 400px;
+}
+
+.portfolio {
+
+}
+
+/*.titles {
+  font-family: "Lobster", cursive;
+  font-size:80px;
+  padding-bottom: 50px;
+  height: 100px
+
+}
+
+.titles p {
+  font-family: "Lobster", cursive;
+  font-size:80px;
+  float: left;
+  color: white;
+  padding-left: 275px;
+}*/
+
+.mySite {
+  width: 800px;
+  float: left;
+  margin-left: 50px;
+}
+
+.mySite h3 {
+  font-family: "Lobster", cursive;
+  font-size:80px;
+  text-align: center;
+  color: white;
+  padding-bottom: 40px;
+}
+
+.schoolOfLife {
+  width: 800px;
+  float: right;
+  margin-right: 50px;
+}
+
+.schoolOfLife h3 {
+  font-family: "Lobster", cursive;
+  font-size:80px;
+  text-align: center;
+  color: white;
+  padding-bottom: 40px;
+}
+
+.presentation {
+  text-align: center;
+  padding-top: 200px;
+}
+
+.contactMe {
+  text-align: center;
+}
+
+.form-container {
+  text-align: center;
+  padding-top: 40px;
+}
+
+h1{
+  font-size: 70px;
+  font-family: "Lobster", cursive;
+  text-align: center;
+}
+
+h3{
+  font-family: "Lobster", cursive;
+  font-size:70px;
+  color:gray;
+  margin: 0px;
+  
+}
+h4{
+  font-family: "Lobster", cursive;
+  font-size:100px;
+  color:white;
+  padding:30px;
+  margin: 0px;
+}
+
+h5{
+  font-family: "Lobster", cursive;
+  font-size:100px;
+  margin: 0;
+  padding-top: 100px;
+  text-align: center;
+}
+
+h6 {  
+  font-family: "Lobster", cursive;
+  font-size:80px;
+  margin: 0px;
+  padding-top: 30px;
+}
+
+p{
+  font-size:25px;
+  margin: 0;
+}
+
+.pageOne{
+  background:url("http://www.pixelstalk.net/wp-content/uploads/2016/04/Photos-backgrounds-smoke-wallpaper-HD.jpg");
+  background-size:cover;
+  height:1000px;
+}
+.pageTwo{
+  background:url("http://subfilmes.com/wp-content/uploads/2015/01/smoke002.png");
+  background-size:cover;
+  height:1000px; 
+}
+
+.pageThree{
+  background:url("http://www.pixelstalk.net/wp-content/uploads/2016/04/White-Smoke-Abstract-Wallpaper-HD.jpg");
+  background-size:cover;
+  height:1000px;
+  text-align: center;
+}
+
+.pageFour{
+  background:url("http://www.pixelstalk.net/wp-content/uploads/2016/04/Smoke-wrinkles-gray-light-blurred-backgrounds.jpg");
+  height:1000px;
+}
+
+.me{
+  margin-top: 100px;
+  margin-left:105px;
+  border-radius:px;
+  height: 412px;
+}
+
+
